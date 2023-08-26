@@ -1,0 +1,83 @@
+material.cosmic_neutronium=Cosmic Neutronium
+material.lv_superconductor=LV超导
+material.lv_superconductor_base=LV超导基
+multiblocktweaker.machine.coke_oven_2.name=焦炉
+recipemap.coke_oven_2.name=焦炉
+multiblocktweaker.multiblock.coke_oven_2.description= 
+
+multiblocktweaker.machine.primitive_alloy.name=原始合金冶炼炉
+recipemap.primitive_alloy.name=原始合金冶炼炉
+multiblocktweaker.multiblock.primitive_alloy.description= 
+
+multiblocktweaker.machine.heat_exchanger.name=热交换机
+recipemap.heat_exchanger.name=热交换机
+multiblocktweaker.multiblock.heat_exchanger.description=热交换器将通过传递热量给水，将熔岩冷却成结壳熔岩。作为副产品，会产生热蒸汽。这种蒸汽可以用于涡轮机产生能源。
+item.contenttweaker.steammotor.name=蒸汽马达
+item.contenttweaker.steampiston.name=蒸汽活塞
+
+devtech.machine.chest_iv.name=黑洞量子箱 IV
+devtech.machine.tank_iv.name=黑洞量子缸 IV
+devtech.machine.chest_v.name=黑洞量子箱 V
+devtech.machine.tank_v.name=黑洞量子缸 V
+devtech.machine.chest_vi.name=黑洞量子箱 VI
+devtech.machine.tank_vi.name=黑洞量子缸 VI
+devtech.machine.chest_vii.name=黑洞量子箱 VII
+devtech.machine.tank_vii.name=黑洞量子缸 VII
+item.contenttweaker.certificate_of_being_a_noob.name=初学者证明
+fluid.starlight_rocketfuel=星能火箭燃料
+material.star_metal_alloy=星辉合金
+material.aquamarine=海蓝宝石
+Featherweight.name=Angel block
+
+material.draconium=龙
+material.awaken_draconium=觉醒龙
+fluid.dragonstem=龙干细胞液
+material.chaosalloy=混沌无尽合金
+fluid.rawchaos=粗制混沌
+material.chaos=精炼混沌
+fluid.pahoehoe_lava=结壳熔岩
+multiblocktweaker.machine.armor_infuser.name=盔甲注能者
+multiblocktweaker.multiblock.armor_infuser.description=一个非常强大的多方块结构，用于升级基于龙锭的盔甲和工具。
+recipemap.armor_infuser.name=盔甲注能
+
+multiblocktweaker.machine.chaos_replicator.name=混沌复制机
+multiblocktweaker.multiblock.chaos_replicator.description=混沌复制器是一种多方块结构，用于从各种材料中制造纯净的混沌碎片。
+recipemap.chaos_replicator.name=混沌复制
+tile.contenttweaker.draconiccasing.name=龙机械方块
+tile.contenttweaker.awakenedcasing.name=觉醒龙机械方块
+tile.contenttweaker.chaoticcasing.name=精炼混沌机械方块
+multiblocktweaker.machine.dragon_egg_replicator.name=龙蛋复制机
+multiblocktweaker.multiblock.dragon_egg_replicator.description=一种多方块结构，用于制造龙之心。
+recipemap.dragon_egg_replicator.name=龙蛋复制机
+item.contenttweaker.refinedchaoscrystal.name=精炼混沌水晶
+item.contenttweaker.refinedchaosshard.name=精炼混沌碎片
+devtech.machine.vial_processor.name=灵魂瓶提取机
+recipemap.vial_processor.name=灵魂瓶提取机
+material.bright_steel=辉钢
+
+
+
+metaitem.starfuelcatalyst.name=硅岩燃料催化剂
+metaitem.paraformaldehyde.name=Paraformaldehyde
+metaitem.hmxexplosive.name=HMX高能爆炸性化合物
+metaitem.octaazacubane.name=亚稳八氮立方烷增强剂
+fluid.octaazacubanesolution=湿态八氮立方烷溶液
+fluid.starlightcomplex=星能复合物
+fluid.explosivehydrazine=爆炸性肼燃料混合物
+
+fluid.stellaralloy=熔融恒星合金
+tile.contenttweaker.eternityblock.name=永恒块
+item.contenttweaker.eternityingot.name=永恒锭
+item.contenttweaker.eternitycrystal.name=永恒水晶
+item.contenttweaker.infintycrystal.name=无尽水晶
+metaitem.eternity_preparation.name=永恒制剂
+fluid.eternity=永恒等离子体
+
+tile.contenttweaker.soulcasing.name=大型灵魂操控机械方块
+multiblocktweaker.machine.large_powered_spawner.name=大型电动刷怪厂(LPS)
+multiblocktweaker.machine.large_vial_processor.name=大型灵魂瓶处理厂(LVP)
+recipemap.large_powered_spawner.name=大型电动刷怪厂
+recipemap.large_vial_processor.name=大型灵魂瓶处理厂
+material.soularium=魂金
+multiblocktweaker.multiblock.large_powered_spawner.description=大型版本的电动刷怪笼，生成装有怪物的灵魂瓶
+multiblocktweaker.multiblock.large_vial_processor.description=大型版本的灵魂瓶提取机，把灵魂瓶转化为怪物战利品
